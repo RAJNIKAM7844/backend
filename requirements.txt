@@ -13,3 +13,4 @@ streamlit
 langchain-fireworks
 einops
 gunicorn
+fastapi
