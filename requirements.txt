@@ -12,3 +12,4 @@ accelerate
 streamlit
 langchain-fireworks
 einops
+gunicorn
