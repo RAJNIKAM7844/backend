@@ -14,3 +14,6 @@ langchain-fireworks
 einops
 gunicorn
 fastapi
+pydantic
+PyPDF2
+docx
