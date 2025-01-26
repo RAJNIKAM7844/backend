@@ -1,0 +1,14 @@
+Flask
+langchain
+langchain_community
+langchain_together
+torch
+transformers
+faiss-cpu
+numpy
+pypdf
+sentence-transformers
+accelerate
+streamlit
+langchain-fireworks
+einops
